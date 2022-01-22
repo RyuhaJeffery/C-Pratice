@@ -1,0 +1,10 @@
+clear
+
+cd "/Users/WoonseonRyu/Desktop/한동대학교/2021-1 5학기/Data Structure/" && g++ test.cpp -o test && "/Users/WoonseonRyu/Desktop/한동대학교/2021-1 5학기/Data Structure/"test
+1
+2
+cd "/Users/WoonseonRyu/Desktop/한동대학교/2021-1 5학기/Data Structure/" && g++ test.cpp -o test && "/Users/WoonseonRyu/Desktop/한동대학교/2021-1 5학기/Data Structure/"test
+cd "/Users/WoonseonRyu/Desktop/한동대학교/2021-1 5학기/Data Structure/" && g++ test.cpp -o test && "/Users/WoonseonRyu/Desktop/한동대학교/2021-1 5학기/Data Structure/"test
+cd "/Users/WoonseonRyu/Desktop/한동대학교/2021-1 5학기/Data Structure/" && g++ test.cpp -o test && "/Users/WoonseonRyu/Desktop/한동대학교/2021-1 5학기/Data Structure/"test
+cd "/Users/WoonseonRyu/Desktop/한동대학교/2021-1 5학기/Data Structure/" && g++ test.cpp -o test && "/Users/WoonseonRyu/Desktop/한동대학교/2021-1 5학기/Data Structure/"test
+clear

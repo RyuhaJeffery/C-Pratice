@@ -1,0 +1,99 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../Desktop/한동대학교/2021-1 5학기/Operating System/test code"
+		},
+		{
+			"path": "../../../../Desktop/한동대학교/2021-1 5학기/AI 프로젝트 입문"
+		},
+		{
+			"path": "../../../../Desktop/2021 개인 전시회/web source code"
+		},
+		{
+			"path": "../../../../Library/Mobile Documents/com~apple~CloudDocs/한동대학교/2021-1 5학기/Data Structure"
+		},
+		{
+			"path": "../../../../Library/Mobile Documents/com~apple~CloudDocs/한동대학교/2021-1 5학기/Operating System"
+		},
+		{
+			"path": "../../../../Library/Mobile Documents/com~apple~CloudDocs/한동대학교/2021-1 5학기/Logic design"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"limits": "cpp",
+			"__bit_reference": "cpp",
+			"__config": "cpp",
+			"__debug": "cpp",
+			"__errc": "cpp",
+			"__functional_base": "cpp",
+			"__hash_table": "cpp",
+			"__locale": "cpp",
+			"__mutex_base": "cpp",
+			"__node_handle": "cpp",
+			"__nullptr": "cpp",
+			"__split_buffer": "cpp",
+			"__string": "cpp",
+			"__threading_support": "cpp",
+			"__tuple": "cpp",
+			"algorithm": "cpp",
+			"array": "cpp",
+			"atomic": "cpp",
+			"bit": "cpp",
+			"bitset": "cpp",
+			"cctype": "cpp",
+			"chrono": "cpp",
+			"cmath": "cpp",
+			"complex": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"exception": "cpp",
+			"functional": "cpp",
+			"initializer_list": "cpp",
+			"ios": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"iterator": "cpp",
+			"locale": "cpp",
+			"memory": "cpp",
+			"mutex": "cpp",
+			"new": "cpp",
+			"optional": "cpp",
+			"ostream": "cpp",
+			"ratio": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"typeinfo": "cpp",
+			"unordered_map": "cpp",
+			"utility": "cpp",
+			"vector": "cpp",
+			"iomanip": "cpp",
+			"wait.h": "c",
+			"types.h": "c",
+			"stack": "cpp",
+			"string.h": "c",
+			"deque": "cpp",
+			"fstream": "cpp",
+			"numeric": "cpp",
+			"random": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "web source code"
+	}
+}
